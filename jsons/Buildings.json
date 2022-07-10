@@ -10,7 +10,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[-50]% Unhappiness from [Population] [in all cities]"]
+		"uniques": ["Indicates the capital city","[-10]% Unhappiness from [Population] [in all cities]"]
 	},
 	{
 		"name": "SovietFactory",
