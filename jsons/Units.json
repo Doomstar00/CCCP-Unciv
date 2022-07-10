@@ -10,7 +10,7 @@
 		"range": 15,
 		"cost": 1000,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Self-destructs when attacking", "Nuclear weapon of Strength [2]", "Requires [Manhattan Project]",
+		"uniques": ["Self-destructs when attacking", "Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [3]", "Consumes [1] [Uranium]"],
 		"attackSound": "nuke"
 	}
